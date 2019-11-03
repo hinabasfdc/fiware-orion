@@ -177,7 +177,7 @@
 *
 * DB_NAME_MAX_LEN - max length of database name
 */
-#define DB_NAME_MAX_LEN  10
+#define DB_NAME_MAX_LEN  128
 
 
 
